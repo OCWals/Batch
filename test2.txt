@@ -1,0 +1,4 @@
+Voici la première ligne
+Et voici la deuxieme ligne
+Enfin, voici la troisième ligne
+Bon, une quatrieme juste pour dire au revoir !
