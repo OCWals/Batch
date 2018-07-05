@@ -52,10 +52,10 @@ echo.
 for /f "tokens=*" %%a in (test2.txt) do (
 	echo %%a
 )
-:: "tokens=*" permet de séléctionner tous les carractères
+:: "tokens=*" permet de séléctionner tous les carractères (ou mots)
 :: Sans ça, seul le premier mot de chaque ligne sera affiché
 
-echo. & echo On va maintenant jouer à un jeu...
+echo. & echo Maintenant, on va jouer à un jeu...
 start OCBatch-TP1.bat
 :: start permet d'ouvrir des script bat mais aussi des fichiers, dossiers, et même sites internet
 
